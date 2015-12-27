@@ -90,7 +90,8 @@ StormData[is.na(StormData$category),]$category <-
 ```
 
 After categorizing the event types the uncategorized events amount to
-'r percNotCategorized'%. These should not affect the top ranking events.
+4% of the data. These should not affect the top
+ranking events.
 
 #Results
 
